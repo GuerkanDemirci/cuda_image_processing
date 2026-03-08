@@ -31,6 +31,20 @@ Options:
 
 Will load all images in folder ```images``` and will convert each into new folder ```out```
 
+Before Run:
+
+<img src="01_source_folder_but_no_output_folder.png" alt="Before Run" width="200"/>
+<img src="images/flowers_01.jpg" alt="Before Run" width="200"/>
+
+Run:
+
+<img src="02_application_output_logs.png" alt="Before Run"/>
+
+After Run:
+
+<img src="03_output_folder_with_images.png" alt="Before Run" width="200"/>
+<img src="flowers_01.jpg" alt="Before Run" width="200"/>
+
 ## Build and execute on Windows
 
 1. build.bat
